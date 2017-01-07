@@ -6,3 +6,5 @@ The user has the ability to customize the game to their choosing. These settings
 - Number of simulations ran
 - When each player, as well as the dealer, hit or stays
 - When an ace is counted as a one versus an eleven
+# Notes
+Because this program uses auxilliary files, when the .zip file is uncompressed, all one must do to run the simulation is find the file labeled "Blackjack_Simulator_Final.pde" and double-click it.
